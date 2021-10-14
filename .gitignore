@@ -1,0 +1,6 @@
+*.jpg
+*.zip
+*.nii
+.ipynb_checkpoints/
+	__pycache__/
+
