@@ -1,0 +1,712 @@
+,Unnamed: 0,Hospital,Patient,Age,Gender,SARS-CoV-2 nucleic acids,CT,Morbidity,Mortality,Caminho
+0,0,HUST-Union Hospital,Patient 1,81,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1.nii
+1,1,HUST-Union Hospital,Patient 2,50,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 2.nii
+2,2,HUST-Union Hospital,Patient 3,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 3.nii
+3,3,HUST-Union Hospital,Patient 4,73,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 4.nii
+4,4,HUST-Union Hospital,Patient 5,64,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 5.nii
+5,5,HUST-Union Hospital,Patient 6,61,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 6.nii
+6,9,HUST-Union Hospital,Patient 10,53,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 10.nii
+7,10,HUST-Union Hospital,Patient 11,39,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 11.nii
+8,11,HUST-Union Hospital,Patient 12,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 12.nii
+9,12,HUST-Union Hospital,Patient 13,67,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 13.nii
+10,14,HUST-Union Hospital,Patient 15,53,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 15.nii
+11,15,HUST-Union Hospital,Patient 16,51,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 16.nii
+12,16,HUST-Union Hospital,Patient 17,41,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 17.nii
+13,17,HUST-Union Hospital,Patient 18,72,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 18.nii
+14,19,HUST-Union Hospital,Patient 20,31,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 20.nii
+15,21,HUST-Union Hospital,Patient 22,67,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 22.nii
+16,22,HUST-Union Hospital,Patient 23,61,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 23.nii
+17,23,HUST-Union Hospital,Patient 24,34,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 24.nii
+18,24,HUST-Union Hospital,Patient 25,14,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 25.nii
+19,25,HUST-Union Hospital,Patient 26,38,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 26.nii
+20,26,HUST-Union Hospital,Patient 27,53,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 27.nii
+21,27,HUST-Union Hospital,Patient 28,62,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 28.nii
+22,29,HUST-Union Hospital,Patient 30,74,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 30.nii
+23,31,HUST-Union Hospital,Patient 32,73,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 32.nii
+24,32,HUST-Union Hospital,Patient 33,80,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 33.nii
+25,33,HUST-Union Hospital,Patient 34,29,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 34.nii
+26,34,HUST-Union Hospital,Patient 35,35,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 35.nii
+27,35,HUST-Union Hospital,Patient 36,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 36.nii
+28,36,HUST-Union Hospital,Patient 37,52,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 37.nii
+29,37,HUST-Union Hospital,Patient 38,62,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 38.nii
+30,38,HUST-Union Hospital,Patient 39,46,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 39.nii
+31,39,HUST-Union Hospital,Patient 40,55,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 40.nii
+32,40,HUST-Union Hospital,Patient 41,35,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 41.nii
+33,41,HUST-Union Hospital,Patient 42,31,Female,Positive,Negative,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 42.nii
+34,43,HUST-Union Hospital,Patient 44,78,Male,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 44.nii
+35,44,HUST-Union Hospital,Patient 45,26,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 45.nii
+36,45,HUST-Union Hospital,Patient 46,50,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 46.nii
+37,46,HUST-Union Hospital,Patient 47,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 47.nii
+38,47,HUST-Union Hospital,Patient 48,57,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 48.nii
+39,48,HUST-Union Hospital,Patient 49,48,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 49.nii
+40,49,HUST-Union Hospital,Patient 50,34,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 50.nii
+41,50,HUST-Union Hospital,Patient 51,37,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 51.nii
+42,51,HUST-Union Hospital,Patient 52,64,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 52.nii
+43,52,HUST-Union Hospital,Patient 53,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 53.nii
+44,53,HUST-Union Hospital,Patient 54,59,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 54.nii
+45,54,HUST-Union Hospital,Patient 55,43,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 55.nii
+46,55,HUST-Union Hospital,Patient 56,36,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 56.nii
+47,56,HUST-Union Hospital,Patient 57,51,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 57.nii
+48,57,HUST-Union Hospital,Patient 58,86,Male,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 58.nii
+49,60,HUST-Union Hospital,Patient 61,37,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 61.nii
+50,61,HUST-Union Hospital,Patient 62,34,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 62.nii
+51,62,HUST-Union Hospital,Patient 63,30,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 63.nii
+52,63,HUST-Union Hospital,Patient 64,36,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 64.nii
+53,64,HUST-Union Hospital,Patient 65,91,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 65.nii
+54,66,HUST-Union Hospital,Patient 67,63,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 67.nii
+55,67,HUST-Union Hospital,Patient 68,61,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 68.nii
+56,68,HUST-Union Hospital,Patient 69,30,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 69.nii
+57,69,HUST-Union Hospital,Patient 70,82,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 70.nii
+58,70,HUST-Union Hospital,Patient 71,46,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 71.nii
+59,71,HUST-Union Hospital,Patient 72,56,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 72.nii
+60,72,HUST-Union Hospital,Patient 73,55,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 73.nii
+61,73,HUST-Union Hospital,Patient 74,33,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 74.nii
+62,74,HUST-Union Hospital,Patient 75,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 75.nii
+63,75,HUST-Union Hospital,Patient 76,81,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 76.nii
+64,76,HUST-Union Hospital,Patient 77,64,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 77.nii
+65,77,HUST-Union Hospital,Patient 78,35,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 78.nii
+66,78,HUST-Union Hospital,Patient 79,51,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 79.nii
+67,79,HUST-Union Hospital,Patient 80,41,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 80.nii
+68,85,HUST-Union Hospital,Patient 86,40,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 86.nii
+69,86,HUST-Union Hospital,Patient 87,70,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 87.nii
+70,87,HUST-Union Hospital,Patient 88,30,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 88.nii
+71,88,HUST-Union Hospital,Patient 89,43,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 89.nii
+72,89,HUST-Union Hospital,Patient 90,51,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 90.nii
+73,90,HUST-Union Hospital,Patient 91,44,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 91.nii
+74,91,HUST-Union Hospital,Patient 92,47,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 92.nii
+75,92,HUST-Union Hospital,Patient 93,69,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 93.nii
+76,93,HUST-Union Hospital,Patient 94,30,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 94.nii
+77,94,HUST-Union Hospital,Patient 95,64,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 95.nii
+78,95,HUST-Union Hospital,Patient 96,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 96.nii
+79,96,HUST-Union Hospital,Patient 97,46,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 97.nii
+80,97,HUST-Union Hospital,Patient 98,35,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 98.nii
+81,100,HUST-Union Hospital,Patient 101,66,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 101.nii
+82,101,HUST-Union Hospital,Patient 102,27,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 102.nii
+83,102,HUST-Union Hospital,Patient 103,23,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 103.nii
+84,103,HUST-Union Hospital,Patient 104,48,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 104.nii
+85,104,HUST-Union Hospital,Patient 105,30,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 105.nii
+86,105,HUST-Union Hospital,Patient 106,60,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 106.nii
+87,106,HUST-Union Hospital,Patient 107,27,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 107.nii
+88,107,HUST-Union Hospital,Patient 108,42,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 108.nii
+89,108,HUST-Union Hospital,Patient 109,35,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 109.nii
+90,109,HUST-Union Hospital,Patient 110,65,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 110.nii
+91,110,HUST-Union Hospital,Patient 111,44,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 111.nii
+92,111,HUST-Union Hospital,Patient 112,51,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 112.nii
+93,112,HUST-Union Hospital,Patient 113,29,Male,Positive,Negative,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 113.nii
+94,113,HUST-Union Hospital,Patient 114,36,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 114.nii
+95,114,HUST-Union Hospital,Patient 115,67,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 115.nii
+96,115,HUST-Union Hospital,Patient 116,70,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 116.nii
+97,116,HUST-Union Hospital,Patient 117,24,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 117.nii
+98,117,HUST-Union Hospital,Patient 118,37,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 118.nii
+99,118,HUST-Union Hospital,Patient 119,38,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 119.nii
+100,119,HUST-Union Hospital,Patient 120,36,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 120.nii
+101,120,HUST-Union Hospital,Patient 121,67,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 121.nii
+102,121,HUST-Union Hospital,Patient 122,71,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 122.nii
+103,123,HUST-Union Hospital,Patient 124,28,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 124.nii
+104,125,HUST-Union Hospital,Patient 126,50,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 126.nii
+105,126,HUST-Union Hospital,Patient 127,70,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 127.nii
+106,127,HUST-Union Hospital,Patient 128,71,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 128.nii
+107,128,HUST-Union Hospital,Patient 129,40,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 129.nii
+108,129,HUST-Union Hospital,Patient 130,64,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 130.nii
+109,130,HUST-Union Hospital,Patient 131,37,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 131.nii
+110,131,HUST-Union Hospital,Patient 132,55,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 132.nii
+111,132,HUST-Union Hospital,Patient 133,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 133.nii
+112,133,HUST-Union Hospital,Patient 134,71,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 134.nii
+113,135,HUST-Union Hospital,Patient 136,28,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 136.nii
+114,136,HUST-Union Hospital,Patient 137,67,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 137.nii
+115,137,HUST-Union Hospital,Patient 138,53,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 138.nii
+116,138,HUST-Union Hospital,Patient 139,55,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 139.nii
+117,139,HUST-Union Hospital,Patient 140,48,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 140.nii
+118,140,HUST-Union Hospital,Patient 141,92,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 141.nii
+119,141,HUST-Union Hospital,Patient 142,64,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 142.nii
+120,142,HUST-Union Hospital,Patient 143,31,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 143.nii
+121,143,HUST-Union Hospital,Patient 144,33,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 144.nii
+122,144,HUST-Union Hospital,Patient 145,38,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 145.nii
+123,145,HUST-Union Hospital,Patient 146,34,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 146.nii
+124,146,HUST-Union Hospital,Patient 147,56,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 147.nii
+125,147,HUST-Union Hospital,Patient 148,24,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 148.nii
+126,149,HUST-Union Hospital,Patient 150,40,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 150.nii
+127,150,HUST-Union Hospital,Patient 151,50,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 151.nii
+128,151,HUST-Union Hospital,Patient 152,47,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 152.nii
+129,152,HUST-Union Hospital,Patient 153,65,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 153.nii
+130,153,HUST-Union Hospital,Patient 154,35,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 154.nii
+131,154,HUST-Union Hospital,Patient 155,62,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 155.nii
+132,155,HUST-Union Hospital,Patient 156,32,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 156.nii
+133,156,HUST-Union Hospital,Patient 157,49,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 157.nii
+134,157,HUST-Union Hospital,Patient 158,79,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 158.nii
+135,158,HUST-Union Hospital,Patient 159,36,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 159.nii
+136,159,HUST-Union Hospital,Patient 160,36,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 160.nii
+137,160,HUST-Union Hospital,Patient 161,32,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 161.nii
+138,161,HUST-Union Hospital,Patient 162,30,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 162.nii
+139,162,HUST-Union Hospital,Patient 163,35,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 163.nii
+140,163,HUST-Union Hospital,Patient 164,42,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 164.nii
+141,164,HUST-Union Hospital,Patient 165,62,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 165.nii
+142,165,HUST-Union Hospital,Patient 166,57,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 166.nii
+143,166,HUST-Union Hospital,Patient 167,70,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 167.nii
+144,167,HUST-Union Hospital,Patient 168,44,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 168.nii
+145,168,HUST-Union Hospital,Patient 169,38,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 169.nii
+146,169,HUST-Union Hospital,Patient 170,54,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 170.nii
+147,170,HUST-Union Hospital,Patient 171,63,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 171.nii
+148,172,HUST-Union Hospital,Patient 173,35,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 173.nii
+149,173,HUST-Union Hospital,Patient 174,29,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 174.nii
+150,174,HUST-Union Hospital,Patient 175,48,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 175.nii
+151,175,HUST-Union Hospital,Patient 176,58,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 176.nii
+152,176,HUST-Union Hospital,Patient 177,38,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 177.nii
+153,177,HUST-Union Hospital,Patient 178,66,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 178.nii
+154,178,HUST-Union Hospital,Patient 179,47,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 179.nii
+155,179,HUST-Union Hospital,Patient 180,54,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 180.nii
+156,183,HUST-Union Hospital,Patient 184,61,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 184.nii
+157,184,HUST-Union Hospital,Patient 185,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 185.nii
+158,185,HUST-Union Hospital,Patient 186,6,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 186.nii
+159,186,HUST-Union Hospital,Patient 187,37,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 187.nii
+160,188,HUST-Union Hospital,Patient 189,33,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 189.nii
+161,189,HUST-Union Hospital,Patient 190,70,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 190.nii
+162,190,HUST-Union Hospital,Patient 191,30,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 191.nii
+163,191,HUST-Union Hospital,Patient 192,75,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 192.nii
+164,196,HUST-Union Hospital,Patient 197,46,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 197.nii
+165,197,HUST-Union Hospital,Patient 198,65,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 198.nii
+166,199,HUST-Union Hospital,Patient 200,53,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 200.nii
+167,200,HUST-Union Hospital,Patient 201,47,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 201.nii
+168,202,HUST-Union Hospital,Patient 203,44,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 203.nii
+169,203,HUST-Union Hospital,Patient 204,56,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 204.nii
+170,204,HUST-Union Hospital,Patient 205,63,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 205.nii
+171,205,HUST-Union Hospital,Patient 206,62,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 206.nii
+172,206,HUST-Union Hospital,Patient 207,32,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 207.nii
+173,207,HUST-Union Hospital,Patient 208,60,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 208.nii
+174,210,HUST-Union Hospital,Patient 211,55,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 211.nii
+175,211,HUST-Union Hospital,Patient 212,53,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 212.nii
+176,212,HUST-Union Hospital,Patient 213,54,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 213.nii
+177,213,HUST-Union Hospital,Patient 214,69,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 214.nii
+178,214,HUST-Union Hospital,Patient 215,51,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 215.nii
+179,215,HUST-Union Hospital,Patient 216,39,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 216.nii
+180,216,HUST-Union Hospital,Patient 217,50,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 217.nii
+181,217,HUST-Union Hospital,Patient 218,53,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 218.nii
+182,219,HUST-Union Hospital,Patient 220,47,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 220.nii
+183,220,HUST-Union Hospital,Patient 221,33,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 221.nii
+184,221,HUST-Union Hospital,Patient 222,74,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 222.nii
+185,222,HUST-Union Hospital,Patient 223,57,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 223.nii
+186,224,HUST-Union Hospital,Patient 225,37,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 225.nii
+187,225,HUST-Union Hospital,Patient 226,52,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 226.nii
+188,226,HUST-Union Hospital,Patient 227,61,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 227.nii
+189,227,HUST-Union Hospital,Patient 228,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 228.nii
+190,228,HUST-Union Hospital,Patient 229,80,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 229.nii
+191,229,HUST-Union Hospital,Patient 230,36,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 230.nii
+192,230,HUST-Union Hospital,Patient 231,47,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 231.nii
+193,231,HUST-Union Hospital,Patient 232,50,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 232.nii
+194,233,HUST-Union Hospital,Patient 234,56,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 234.nii
+195,234,HUST-Union Hospital,Patient 235,44,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 235.nii
+196,235,HUST-Union Hospital,Patient 236,85,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 236.nii
+197,238,HUST-Union Hospital,Patient 239,85,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 239.nii
+198,239,HUST-Union Hospital,Patient 240,55,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 240.nii
+199,241,HUST-Union Hospital,Patient 242,39,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 242.nii
+200,242,HUST-Union Hospital,Patient 243,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 243.nii
+201,244,HUST-Union Hospital,Patient 245,52,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 245.nii
+202,245,HUST-Union Hospital,Patient 246,64,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 246.nii
+203,248,HUST-Union Hospital,Patient 249,63,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 249.nii
+204,250,HUST-Union Hospital,Patient 251,41,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 251.nii
+205,251,HUST-Union Hospital,Patient 252,60,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 252.nii
+206,252,HUST-Union Hospital,Patient 253,59,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 253.nii
+207,253,HUST-Union Hospital,Patient 254,60,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 254.nii
+208,254,HUST-Union Hospital,Patient 255,23,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 255.nii
+209,255,HUST-Union Hospital,Patient 256,54,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 256.nii
+210,256,HUST-Union Hospital,Patient 257,65,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 257.nii
+211,257,HUST-Union Hospital,Patient 258,66,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 258.nii
+212,258,HUST-Union Hospital,Patient 259,84,Female,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 259.nii
+213,259,HUST-Union Hospital,Patient 260,85,Male,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 260.nii
+214,260,HUST-Union Hospital,Patient 261,63,Female,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 261.nii
+215,261,HUST-Union Hospital,Patient 262,48,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 262.nii
+216,262,HUST-Union Hospital,Patient 263,47,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 263.nii
+217,264,HUST-Union Hospital,Patient 265,61,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 265.nii
+218,265,HUST-Union Hospital,Patient 266,29,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 266.nii
+219,266,HUST-Union Hospital,Patient 267,79,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 267.nii
+220,267,HUST-Union Hospital,Patient 268,56,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 268.nii
+221,268,HUST-Union Hospital,Patient 269,74,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 269.nii
+222,270,HUST-Union Hospital,Patient 271,34,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 271.nii
+223,271,HUST-Union Hospital,Patient 272,28,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 272.nii
+224,272,HUST-Union Hospital,Patient 273,35,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 273.nii
+225,273,HUST-Union Hospital,Patient 274,49,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 274.nii
+226,274,HUST-Union Hospital,Patient 275,32,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 275.nii
+227,275,HUST-Union Hospital,Patient 276,66,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 276.nii
+228,276,HUST-Union Hospital,Patient 277,71,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 277.nii
+229,277,HUST-Union Hospital,Patient 278,51,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 278.nii
+230,278,HUST-Union Hospital,Patient 279,49,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 279.nii
+231,279,HUST-Union Hospital,Patient 280,82,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 280.nii
+232,280,HUST-Union Hospital,Patient 281,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 281.nii
+233,281,HUST-Union Hospital,Patient 282,86,Male,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 282.nii
+234,284,HUST-Union Hospital,Patient 285,61,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 285.nii
+235,285,HUST-Union Hospital,Patient 286,31,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 286.nii
+236,287,HUST-Union Hospital,Patient 288,30,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 288.nii
+237,288,HUST-Union Hospital,Patient 289,39,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 289.nii
+238,290,HUST-Union Hospital,Patient 291,70,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 291.nii
+239,292,HUST-Union Hospital,Patient 293,61,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 293.nii
+240,293,HUST-Union Hospital,Patient 294,31,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 294.nii
+241,294,HUST-Union Hospital,Patient 295,38,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 295.nii
+242,295,HUST-Union Hospital,Patient 296,17,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 296.nii
+243,297,HUST-Union Hospital,Patient 298,63,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 298.nii
+244,298,HUST-Union Hospital,Patient 299,75,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 299.nii
+245,299,HUST-Union Hospital,Patient 300,48,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 300.nii
+246,301,HUST-Union Hospital,Patient 302,83,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 302.nii
+247,303,HUST-Union Hospital,Patient 304,35,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 304.nii
+248,305,HUST-Union Hospital,Patient 306,58,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 306.nii
+249,306,HUST-Union Hospital,Patient 307,72,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 307.nii
+250,310,HUST-Union Hospital,Patient 311,24,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 311.nii
+251,311,HUST-Union Hospital,Patient 312,32,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 312.nii
+252,322,HUST-Union Hospital,Patient 323,97,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 323.nii
+253,323,HUST-Union Hospital,Patient 324,34,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 324.nii
+254,325,HUST-Union Hospital,Patient 326,28,Female,Positive,Negative,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 326.nii
+255,326,HUST-Union Hospital,Patient 327,62,Female,Positive,Negative,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 327.nii
+256,328,HUST-Union Hospital,Patient 329,30,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 329.nii
+257,333,HUST-Union Hospital,Patient 334,31,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 334.nii
+258,336,HUST-Union Hospital,Patient 337,43,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 337.nii
+259,341,HUST-Union Hospital,Patient 342,29,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 342.nii
+260,343,HUST-Union Hospital,Patient 344,60,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 344.nii
+261,344,HUST-Union Hospital,Patient 345,69,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 345.nii
+262,346,HUST-Union Hospital,Patient 347,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 347.nii
+263,347,HUST-Union Hospital,Patient 348,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 348.nii
+264,349,HUST-Union Hospital,Patient 350,62,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 350.nii
+265,350,HUST-Union Hospital,Patient 351,40,Male,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 351.nii
+266,352,HUST-Union Hospital,Patient 353,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 353.nii
+267,354,HUST-Union Hospital,Patient 355,46,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 355.nii
+268,355,HUST-Union Hospital,Patient 356,71,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 356.nii
+269,356,HUST-Union Hospital,Patient 357,80,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 357.nii
+270,357,HUST-Union Hospital,Patient 358,71,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 358.nii
+271,360,HUST-Union Hospital,Patient 361,33,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 361.nii
+272,362,HUST-Union Hospital,Patient 363,38,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 363.nii
+273,365,HUST-Union Hospital,Patient 366,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 366.nii
+274,366,HUST-Union Hospital,Patient 367,27,Female,Positive,Negative,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 367.nii
+275,367,HUST-Union Hospital,Patient 368,78,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 368.nii
+276,372,HUST-Union Hospital,Patient 373,53,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 373.nii
+277,374,HUST-Union Hospital,Patient 375,46,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 375.nii
+278,377,HUST-Union Hospital,Patient 378,27,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 378.nii
+279,379,HUST-Union Hospital,Patient 380,39,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 380.nii
+280,383,HUST-Union Hospital,Patient 384,48,Female,Negative,Positive,Suspected,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 384.nii
+281,386,HUST-Union Hospital,Patient 387,57,Male,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 387.nii
+282,387,HUST-Union Hospital,Patient 388,69,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 388.nii
+283,389,HUST-Union Hospital,Patient 390,56,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 390.nii
+284,390,HUST-Union Hospital,Patient 391,71,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 391.nii
+285,391,HUST-Union Hospital,Patient 392,59,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 392.nii
+286,392,HUST-Union Hospital,Patient 393,79,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 393.nii
+287,394,HUST-Union Hospital,Patient 395,33,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 395.nii
+288,395,HUST-Union Hospital,Patient 396,39,Male,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 396.nii
+289,396,HUST-Union Hospital,Patient 397,70,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 397.nii
+290,397,HUST-Union Hospital,Patient 398,57,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 398.nii
+291,398,HUST-Union Hospital,Patient 399,71,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 399.nii
+292,399,HUST-Union Hospital,Patient 400,65,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 400.nii
+293,401,HUST-Union Hospital,Patient 402,58,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 402.nii
+294,402,HUST-Union Hospital,Patient 403,88,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 403.nii
+295,404,HUST-Union Hospital,Patient 405,9,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 405.nii
+296,405,HUST-Union Hospital,Patient 406,55,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 406.nii
+297,406,HUST-Union Hospital,Patient 407,58,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 407.nii
+298,407,HUST-Union Hospital,Patient 408,75,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 408.nii
+299,410,HUST-Union Hospital,Patient 411,34,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 411.nii
+300,411,HUST-Union Hospital,Patient 412,29,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 412.nii
+301,412,HUST-Union Hospital,Patient 413,55,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 413.nii
+302,413,HUST-Union Hospital,Patient 414,60,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 414.nii
+303,414,HUST-Union Hospital,Patient 415,54,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 415.nii
+304,415,HUST-Union Hospital,Patient 416,28,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 416.nii
+305,751,HUST-Union Hospital,Patient 752,56,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 752.nii
+306,752,HUST-Union Hospital,Patient 753,86,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 753.nii
+307,753,HUST-Union Hospital,Patient 754,34,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 754.nii
+308,754,HUST-Union Hospital,Patient 755,49,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 755.nii
+309,755,HUST-Union Hospital,Patient 756,44,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 756.nii
+310,756,HUST-Union Hospital,Patient 757,50,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 757.nii
+311,757,HUST-Union Hospital,Patient 758,52,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 758.nii
+312,758,HUST-Union Hospital,Patient 759,70,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 759.nii
+313,759,HUST-Union Hospital,Patient 760,42,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 760.nii
+314,760,HUST-Union Hospital,Patient 761,86,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 761.nii
+315,761,HUST-Union Hospital,Patient 762,64,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 762.nii
+316,762,HUST-Union Hospital,Patient 763,62,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 763.nii
+317,763,HUST-Union Hospital,Patient 764,44,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 764.nii
+318,764,HUST-Union Hospital,Patient 765,60,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 765.nii
+319,765,HUST-Union Hospital,Patient 766,58,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 766.nii
+320,766,HUST-Union Hospital,Patient 767,34,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 767.nii
+321,767,HUST-Union Hospital,Patient 768,48,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 768.nii
+322,768,HUST-Union Hospital,Patient 769,53,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 769.nii
+323,769,HUST-Union Hospital,Patient 770,62,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 770.nii
+324,770,HUST-Union Hospital,Patient 771,48,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 771.nii
+325,771,HUST-Union Hospital,Patient 772,29,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 772.nii
+326,772,HUST-Union Hospital,Patient 773,52,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 773.nii
+327,773,HUST-Union Hospital,Patient 774,57,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 774.nii
+328,774,HUST-Union Hospital,Patient 775,68,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 775.nii
+329,775,HUST-Union Hospital,Patient 1171,66,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1171.nii
+330,776,HUST-Union Hospital,Patient 1172,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1172.nii
+331,777,HUST-Union Hospital,Patient 1173,81,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1173.nii
+332,778,HUST-Union Hospital,Patient 1174,71,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1174.nii
+333,779,HUST-Union Hospital,Patient 1175,86,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1175.nii
+334,800,HUST-Union Hospital,Patient 1176,36,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1176.nii
+335,801,HUST-Union Hospital,Patient 1177,72,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1177.nii
+336,802,HUST-Union Hospital,Patient 1178,81,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1178.nii
+337,803,HUST-Union Hospital,Patient 1179,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1179.nii
+338,804,HUST-Union Hospital,Patient 1180,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1180.nii
+339,805,HUST-Union Hospital,Patient 1181,69,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1181.nii
+340,806,HUST-Union Hospital,Patient 1182,66,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1182.nii
+341,808,HUST-Union Hospital,Patient 1184,71,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1184.nii
+342,809,HUST-Union Hospital,Patient 1185,73,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1185.nii
+343,810,HUST-Union Hospital,Patient 1186,66,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1186.nii
+344,811,HUST-Union Hospital,Patient 1187,67,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1187.nii
+345,812,HUST-Union Hospital,Patient 1188,51,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1188.nii
+346,813,HUST-Union Hospital,Patient 1189,54,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1189.nii
+347,814,HUST-Union Hospital,Patient 1190,59,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1190.nii
+348,815,HUST-Union Hospital,Patient 1191,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1191.nii
+349,816,HUST-Union Hospital,Patient 1192,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1192.nii
+350,817,HUST-Union Hospital,Patient 1193,69,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1193.nii
+351,818,HUST-Union Hospital,Patient 1194,28,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1194.nii
+352,819,HUST-Union Hospital,Patient 1195,66,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1195.nii
+353,820,HUST-Union Hospital,Patient 1196,48,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1196.nii
+354,821,HUST-Union Hospital,Patient 1197,62,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1197.nii
+355,822,HUST-Union Hospital,Patient 1198,43,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1198.nii
+356,823,HUST-Union Hospital,Patient 1199,61,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1199.nii
+357,824,HUST-Union Hospital,Patient 1200,42,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1200.nii
+358,825,HUST-Union Hospital,Patient 1201,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1201.nii
+359,826,HUST-Union Hospital,Patient 1202,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1202.nii
+360,827,HUST-Union Hospital,Patient 1203,91,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1203.nii
+361,828,HUST-Union Hospital,Patient 1204,69,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1204.nii
+362,829,HUST-Union Hospital,Patient 1205,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1205.nii
+363,830,HUST-Union Hospital,Patient 1206,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1206.nii
+364,831,HUST-Union Hospital,Patient 1207,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1207.nii
+365,832,HUST-Union Hospital,Patient 1208,76,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1208.nii
+366,833,HUST-Union Hospital,Patient 1209,63,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1209.nii
+367,834,HUST-Union Hospital,Patient 1210,55,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1210.nii
+368,835,HUST-Union Hospital,Patient 1211,51,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1211.nii
+369,836,HUST-Union Hospital,Patient 1212,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1212.nii
+370,837,HUST-Union Hospital,Patient 1213,43,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1213.nii
+371,838,HUST-Union Hospital,Patient 1214,70,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1214.nii
+372,839,HUST-Union Hospital,Patient 1215,49,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1215.nii
+373,840,HUST-Union Hospital,Patient 1216,77,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1216.nii
+374,841,HUST-Union Hospital,Patient 1217,91,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1217.nii
+375,842,HUST-Union Hospital,Patient 1218,63,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1218.nii
+376,843,HUST-Union Hospital,Patient 1219,43,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1219.nii
+377,844,HUST-Union Hospital,Patient 1220,57,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1220.nii
+378,845,HUST-Union Hospital,Patient 1221,73,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1221.nii
+379,846,HUST-Union Hospital,Patient 1222,68,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1222.nii
+380,847,HUST-Union Hospital,Patient 1223,56,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1223.nii
+381,848,HUST-Union Hospital,Patient 1224,56,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1224.nii
+382,849,HUST-Union Hospital,Patient 1225,73,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1225.nii
+383,850,HUST-Union Hospital,Patient 1226,36,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1226.nii
+384,851,HUST-Union Hospital,Patient 1227,41,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1227.nii
+385,852,HUST-Union Hospital,Patient 1228,60,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1228.nii
+386,853,HUST-Union Hospital,Patient 1229,65,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1229.nii
+387,854,HUST-Union Hospital,Patient 1230,67,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1230.nii
+388,855,HUST-Union Hospital,Patient 1231,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1231.nii
+389,856,HUST-Union Hospital,Patient 1232,69,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1232.nii
+390,857,HUST-Union Hospital,Patient 1233,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1233.nii
+391,858,HUST-Union Hospital,Patient 1234,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1234.nii
+392,859,HUST-Union Hospital,Patient 1235,77,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1235.nii
+393,860,HUST-Union Hospital,Patient 1236,51,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1236.nii
+394,861,HUST-Union Hospital,Patient 1237,62,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1237.nii
+395,862,HUST-Union Hospital,Patient 1238,32,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1238.nii
+396,863,HUST-Union Hospital,Patient 1239,70,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1239.nii
+397,864,HUST-Union Hospital,Patient 1240,49,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1240.nii
+398,865,HUST-Union Hospital,Patient 1241,74,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1241.nii
+399,866,HUST-Union Hospital,Patient 1242,20,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1242.nii
+400,867,HUST-Union Hospital,Patient 1243,63,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1243.nii
+401,868,HUST-Union Hospital,Patient 1244,67,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1244.nii
+402,869,HUST-Union Hospital,Patient 1245,66,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1245.nii
+403,870,HUST-Union Hospital,Patient 1246,72,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1246.nii
+404,871,HUST-Union Hospital,Patient 1247,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1247.nii
+405,872,HUST-Union Hospital,Patient 1248,36,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1248.nii
+406,873,HUST-Union Hospital,Patient 1249,56,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1249.nii
+407,874,HUST-Union Hospital,Patient 1250,73,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1250.nii
+408,875,HUST-Union Hospital,Patient 1251,57,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1251.nii
+409,876,HUST-Union Hospital,Patient 1252,37,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1252.nii
+410,877,HUST-Union Hospital,Patient 1253,57,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1253.nii
+411,878,HUST-Union Hospital,Patient 1254,61,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1254.nii
+412,879,HUST-Union Hospital,Patient 1255,73,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1255.nii
+413,880,HUST-Union Hospital,Patient 1256,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1256.nii
+414,881,HUST-Union Hospital,Patient 1257,35,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1257.nii
+415,882,HUST-Union Hospital,Patient 1258,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1258.nii
+416,883,HUST-Union Hospital,Patient 1259,66,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1259.nii
+417,884,HUST-Union Hospital,Patient 1260,69,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1260.nii
+418,885,HUST-Union Hospital,Patient 1261,61,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1261.nii
+419,886,HUST-Union Hospital,Patient 1262,71,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1262.nii
+420,887,HUST-Union Hospital,Patient 1263,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1263.nii
+421,888,HUST-Union Hospital,Patient 1264,67,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1264.nii
+422,889,HUST-Union Hospital,Patient 1265,83,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1265.nii
+423,890,HUST-Union Hospital,Patient 1266,53,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1266.nii
+424,891,HUST-Union Hospital,Patient 1267,37,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1267.nii
+425,892,HUST-Union Hospital,Patient 1268,61,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1268.nii
+426,893,HUST-Union Hospital,Patient 1269,60,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1269.nii
+427,894,HUST-Union Hospital,Patient 1270,45,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1270.nii
+428,895,HUST-Union Hospital,Patient 1271,46,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1271.nii
+429,896,HUST-Union Hospital,Patient 1272,62,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1272.nii
+430,897,HUST-Union Hospital,Patient 1273,59,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1273.nii
+431,898,HUST-Union Hospital,Patient 1274,57,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1274.nii
+432,899,HUST-Union Hospital,Patient 1275,78,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1275.nii
+433,900,HUST-Union Hospital,Patient 1276,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1276.nii
+434,901,HUST-Union Hospital,Patient 1277,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1277.nii
+435,902,HUST-Union Hospital,Patient 1278,69,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1278.nii
+436,903,HUST-Union Hospital,Patient 1279,70,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1279.nii
+437,904,HUST-Union Hospital,Patient 1280,68,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1280.nii
+438,905,HUST-Union Hospital,Patient 1281,50,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1281.nii
+439,906,HUST-Union Hospital,Patient 1282,79,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1282.nii
+440,907,HUST-Union Hospital,Patient 1283,67,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1283.nii
+441,908,HUST-Union Hospital,Patient 1284,72,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1284.nii
+442,909,HUST-Union Hospital,Patient 1285,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1285.nii
+443,910,HUST-Union Hospital,Patient 1286,65,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1286.nii
+444,911,HUST-Union Hospital,Patient 1287,58,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1287.nii
+445,912,HUST-Union Hospital,Patient 1288,50,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1288.nii
+446,913,HUST-Union Hospital,Patient 1289,66,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1289.nii
+447,914,HUST-Union Hospital,Patient 1290,68,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1290.nii
+448,915,HUST-Union Hospital,Patient 1291,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1291.nii
+449,916,HUST-Union Hospital,Patient 1292,78,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1292.nii
+450,917,HUST-Union Hospital,Patient 1293,93,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1293.nii
+451,918,HUST-Union Hospital,Patient 1294,53,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1294.nii
+452,919,HUST-Union Hospital,Patient 1295,73,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1295.nii
+453,920,HUST-Union Hospital,Patient 1296,62,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1296.nii
+454,921,HUST-Union Hospital,Patient 1297,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1297.nii
+455,922,HUST-Union Hospital,Patient 1298,37,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1298.nii
+456,923,HUST-Union Hospital,Patient 1299,40,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1299.nii
+457,924,HUST-Union Hospital,Patient 1300,57,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1300.nii
+458,925,HUST-Union Hospital,Patient 1301,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1301.nii
+459,927,HUST-Union Hospital,Patient 1303,33,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1303.nii
+460,929,HUST-Union Hospital,Patient 1305,48,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1305.nii
+461,931,HUST-Union Hospital,Patient 1307,74,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1307.nii
+462,932,HUST-Union Hospital,Patient 1308,72,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1308.nii
+463,933,HUST-Union Hospital,Patient 1309,73,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1309.nii
+464,934,HUST-Union Hospital,Patient 1310,46,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1310.nii
+465,935,HUST-Union Hospital,Patient 1311,38,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1311.nii
+466,936,HUST-Union Hospital,Patient 1312,66,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1312.nii
+467,937,HUST-Union Hospital,Patient 1313,55,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1313.nii
+468,938,HUST-Union Hospital,Patient 1314,55,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1314.nii
+469,939,HUST-Union Hospital,Patient 1315,41,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1315.nii
+470,940,HUST-Union Hospital,Patient 1316,66,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1316.nii
+471,941,HUST-Union Hospital,Patient 1317,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1317.nii
+472,942,HUST-Union Hospital,Patient 1318,34,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1318.nii
+473,944,HUST-Union Hospital,Patient 1320,53,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1320.nii
+474,945,HUST-Union Hospital,Patient 1321,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1321.nii
+475,946,HUST-Union Hospital,Patient 1322,70,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1322.nii
+476,947,HUST-Union Hospital,Patient 1323,20,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1323.nii
+477,948,HUST-Union Hospital,Patient 1324,71,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1324.nii
+478,949,HUST-Union Hospital,Patient 1325,51,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1325.nii
+479,950,HUST-Union Hospital,Patient 1326,72,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1326.nii
+480,951,HUST-Union Hospital,Patient 1327,82,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1327.nii
+481,952,HUST-Union Hospital,Patient 1328,58,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1328.nii
+482,953,HUST-Union Hospital,Patient 1329,53,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1329.nii
+483,954,HUST-Union Hospital,Patient 1330,55,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1330.nii
+484,955,HUST-Union Hospital,Patient 1331,64,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1331.nii
+485,956,HUST-Union Hospital,Patient 1332,56,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1332.nii
+486,957,HUST-Union Hospital,Patient 1333,63,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1333.nii
+487,958,HUST-Union Hospital,Patient 1334,49,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1334.nii
+488,959,HUST-Union Hospital,Patient 1335,27,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1335.nii
+489,960,HUST-Union Hospital,Patient 1336,66,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1336.nii
+490,961,HUST-Union Hospital,Patient 1337,68,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1337.nii
+491,962,HUST-Union Hospital,Patient 1338,68,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1338.nii
+492,963,HUST-Union Hospital,Patient 1339,69,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1339.nii
+493,964,HUST-Union Hospital,Patient 1340,61,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1340.nii
+494,965,HUST-Union Hospital,Patient 1341,66,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1341.nii
+495,966,HUST-Union Hospital,Patient 1342,48,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1342.nii
+496,967,HUST-Union Hospital,Patient 1343,57,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1343.nii
+497,968,HUST-Union Hospital,Patient 1344,32,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1344.nii
+498,969,HUST-Union Hospital,Patient 1345,37,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1345.nii
+499,970,HUST-Union Hospital,Patient 1346,73,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1346.nii
+500,971,HUST-Union Hospital,Patient 1347,71,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1347.nii
+501,972,HUST-Union Hospital,Patient 1348,56,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1348.nii
+502,973,HUST-Union Hospital,Patient 1349,67,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1349.nii
+503,974,HUST-Union Hospital,Patient 1350,68,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1350.nii
+504,975,HUST-Union Hospital,Patient 1351,61,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1351.nii
+505,976,HUST-Union Hospital,Patient 1352,72,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1352.nii
+506,977,HUST-Union Hospital,Patient 1353,70,Male,Positive,Negative,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1353.nii
+507,978,HUST-Union Hospital,Patient 1354,44,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1354.nii
+508,979,HUST-Union Hospital,Patient 1355,70,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1355.nii
+509,980,HUST-Union Hospital,Patient 1356,46,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1356.nii
+510,981,HUST-Union Hospital,Patient 1357,58,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1357.nii
+511,982,HUST-Union Hospital,Patient 1358,64,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1358.nii
+512,983,HUST-Union Hospital,Patient 1359,46,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1359.nii
+513,985,HUST-Union Hospital,Patient 1361,55,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1361.nii
+514,986,HUST-Union Hospital,Patient 1362,59,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1362.nii
+515,987,HUST-Union Hospital,Patient 1363,56,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1363.nii
+516,988,HUST-Union Hospital,Patient 1364,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1364.nii
+517,989,HUST-Union Hospital,Patient 1365,71,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1365.nii
+518,990,HUST-Union Hospital,Patient 1366,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1366.nii
+519,991,HUST-Union Hospital,Patient 1367,33,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1367.nii
+520,992,HUST-Union Hospital,Patient 1368,70,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1368.nii
+521,993,HUST-Union Hospital,Patient 1369,37,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1369.nii
+522,994,HUST-Union Hospital,Patient 1370,55,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1370.nii
+523,995,HUST-Union Hospital,Patient 1371,63,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1371.nii
+524,996,HUST-Union Hospital,Patient 1372,42,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1372.nii
+525,997,HUST-Union Hospital,Patient 1373,54,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1373.nii
+526,998,HUST-Union Hospital,Patient 1374,65,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1374.nii
+527,999,HUST-Union Hospital,Patient 1375,67,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1375.nii
+528,1000,HUST-Union Hospital,Patient 1376,44,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1376.nii
+529,1001,HUST-Union Hospital,Patient 1377,43,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1377.nii
+530,1002,HUST-Union Hospital,Patient 1378,76,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1378.nii
+531,1003,HUST-Union Hospital,Patient 1379,64,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1379.nii
+532,1004,HUST-Union Hospital,Patient 1380,56,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1380.nii
+533,1005,HUST-Union Hospital,Patient 1381,58,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1381.nii
+534,1006,HUST-Union Hospital,Patient 1382,61,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1382.nii
+535,1007,HUST-Union Hospital,Patient 1383,51,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1383.nii
+536,1008,HUST-Union Hospital,Patient 1384,60,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1384.nii
+537,1009,HUST-Union Hospital,Patient 1385,64,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1385.nii
+538,1010,HUST-Union Hospital,Patient 1386,53,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1386.nii
+539,1011,HUST-Union Hospital,Patient 1387,57,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1387.nii
+540,1012,HUST-Union Hospital,Patient 1388,52,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1388.nii
+541,1013,HUST-Union Hospital,Patient 1389,23,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1389.nii
+542,1014,HUST-Union Hospital,Patient 1390,50,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1390.nii
+543,1015,HUST-Union Hospital,Patient 1391,58,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1391.nii
+544,1017,HUST-Union Hospital,Patient 1393,47,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1393.nii
+545,1018,HUST-Union Hospital,Patient 1394,51,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1394.nii
+546,1019,HUST-Union Hospital,Patient 1395,38,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1395.nii
+547,1020,HUST-Union Hospital,Patient 1396,49,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1396.nii
+548,1021,HUST-Union Hospital,Patient 1397,52,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1397.nii
+549,1022,HUST-Union Hospital,Patient 1398,45,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1398.nii
+550,1023,HUST-Union Hospital,Patient 1399,61,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1399.nii
+551,1026,HUST-Union Hospital,Patient 1402,84,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1402.nii
+552,1027,HUST-Union Hospital,Patient 1403,48,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1403.nii
+553,1028,HUST-Union Hospital,Patient 1404,57,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1404.nii
+554,1029,HUST-Union Hospital,Patient 1405,64,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1405.nii
+555,1030,HUST-Union Hospital,Patient 1406,61,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1406.nii
+556,1031,HUST-Union Hospital,Patient 1407,31,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1407.nii
+557,1032,HUST-Union Hospital,Patient 1408,70,Female,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1408.nii
+558,1033,HUST-Union Hospital,Patient 1409,69,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1409.nii
+559,1034,HUST-Union Hospital,Patient 1410,54,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1410.nii
+560,1035,HUST-Union Hospital,Patient 1411,72,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1411.nii
+561,1036,HUST-Union Hospital,Patient 1412,66,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1412.nii
+562,1037,HUST-Union Hospital,Patient 1413,43,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1413.nii
+563,1038,HUST-Union Hospital,Patient 1414,49,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1414.nii
+564,1039,HUST-Union Hospital,Patient 1415,6,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1415.nii
+565,1040,HUST-Union Hospital,Patient 1416,72,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1416.nii
+566,1041,HUST-Union Hospital,Patient 1417,71,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1417.nii
+567,1042,HUST-Union Hospital,Patient 1418,57,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1418.nii
+568,1043,HUST-Union Hospital,Patient 1419,69,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1419.nii
+569,1044,HUST-Union Hospital,Patient 1420,55,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1420.nii
+570,1045,HUST-Union Hospital,Patient 1421,21,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1421.nii
+571,1046,HUST-Union Hospital,Patient 1422,52,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1422.nii
+572,1047,HUST-Union Hospital,Patient 1423,32,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1423.nii
+573,1048,HUST-Union Hospital,Patient 1424,57,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1424.nii
+574,1049,HUST-Union Hospital,Patient 1425,53,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1425.nii
+575,1050,HUST-Union Hospital,Patient 1426,66,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1426.nii
+576,1051,HUST-Union Hospital,Patient 1427,69,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1427.nii
+577,1052,HUST-Union Hospital,Patient 1428,2,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1428.nii
+578,1053,HUST-Union Hospital,Patient 1429,68,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1429.nii
+579,1054,HUST-Union Hospital,Patient 1430,24,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1430.nii
+580,1055,HUST-Union Hospital,Patient 1431,50,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1431.nii
+581,1056,HUST-Union Hospital,Patient 1432,76,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1432.nii
+582,1057,HUST-Union Hospital,Patient 1433,39,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1433.nii
+583,1058,HUST-Union Hospital,Patient 1434,49,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1434.nii
+584,1059,HUST-Union Hospital,Patient 1435,81,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1435.nii
+585,1060,HUST-Union Hospital,Patient 1436,26,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1436.nii
+586,1061,HUST-Union Hospital,Patient 1437,68,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1437.nii
+587,1062,HUST-Union Hospital,Patient 1438,85,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1438.nii
+588,1063,HUST-Union Hospital,Patient 1439,20,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1439.nii
+589,1064,HUST-Union Hospital,Patient 1440,37,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1440.nii
+590,1065,HUST-Union Hospital,Patient 1441,52,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1441.nii
+591,1066,HUST-Union Hospital,Patient 1442,54,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1442.nii
+592,1067,HUST-Union Hospital,Patient 1443,56,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1443.nii
+593,1068,HUST-Union Hospital,Patient 1444,73,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1444.nii
+594,1069,HUST-Union Hospital,Patient 1445,79,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1445.nii
+595,1070,HUST-Union Hospital,Patient 1446,82,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1446.nii
+596,1071,HUST-Union Hospital,Patient 1447,32,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1447.nii
+597,1072,HUST-Union Hospital,Patient 1448,62,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1448.nii
+598,1073,HUST-Union Hospital,Patient 1449,79,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1449.nii
+599,1074,HUST-Union Hospital,Patient 1450,51,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1450.nii
+600,1075,HUST-Union Hospital,Patient 1451,1,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1451.nii
+601,1076,HUST-Union Hospital,Patient 1452,29,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1452.nii
+602,1077,HUST-Union Hospital,Patient 1453,2,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1453.nii
+603,1078,HUST-Union Hospital,Patient 1454,62,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1454.nii
+604,1079,HUST-Union Hospital,Patient 1455,91,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1455.nii
+605,1080,HUST-Union Hospital,Patient 1456,2,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1456.nii
+606,1081,HUST-Union Hospital,Patient 1457,2,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1457.nii
+607,1082,HUST-Union Hospital,Patient 1458,53,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1458.nii
+608,1083,HUST-Union Hospital,Patient 1459,62,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1459.nii
+609,1084,HUST-Union Hospital,Patient 1460,62,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1460.nii
+610,1085,HUST-Union Hospital,Patient 1461,69,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1461.nii
+611,1086,HUST-Union Hospital,Patient 1462,46,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1462.nii
+612,1087,HUST-Union Hospital,Patient 1463,61,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1463.nii
+613,1088,HUST-Union Hospital,Patient 1464,75,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1464.nii
+614,1089,HUST-Union Hospital,Patient 1465,31,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1465.nii
+615,1090,HUST-Union Hospital,Patient 1466,59,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1466.nii
+616,1091,HUST-Union Hospital,Patient 1467,64,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1467.nii
+617,1092,HUST-Union Hospital,Patient 1468,31,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1468.nii
+618,1093,HUST-Union Hospital,Patient 1469,54,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1469.nii
+619,1094,HUST-Union Hospital,Patient 1470,65,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1470.nii
+620,1095,HUST-Union Hospital,Patient 1471,53,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1471.nii
+621,1096,HUST-Union Hospital,Patient 1472,70,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1472.nii
+622,1097,HUST-Union Hospital,Patient 1473,57,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1473.nii
+623,1098,HUST-Union Hospital,Patient 1474,69,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1474.nii
+624,1099,HUST-Union Hospital,Patient 1475,69,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1475.nii
+625,1100,HUST-Union Hospital,Patient 1476,84,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1476.nii
+626,1101,HUST-Union Hospital,Patient 1477,59,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1477.nii
+627,1102,HUST-Union Hospital,Patient 1478,63,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1478.nii
+628,1103,HUST-Union Hospital,Patient 1479,37,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1479.nii
+629,1104,HUST-Union Hospital,Patient 1480,52,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1480.nii
+630,1105,HUST-Union Hospital,Patient 1481,54,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1481.nii
+631,1106,HUST-Union Hospital,Patient 1482,57,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1482.nii
+632,1107,HUST-Union Hospital,Patient 1483,59,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1483.nii
+633,1108,HUST-Union Hospital,Patient 1484,64,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1484.nii
+634,1109,HUST-Union Hospital,Patient 1485,70,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1485.nii
+635,1110,HUST-Union Hospital,Patient 1486,7,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1486.nii
+636,1111,HUST-Union Hospital,Patient 1487,86,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1487.nii
+637,1112,HUST-Union Hospital,Patient 1488,18,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1488.nii
+638,1113,HUST-Union Hospital,Patient 1489,60,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1489.nii
+639,1114,HUST-Union Hospital,Patient 1490,83,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1490.nii
+640,1115,HUST-Union Hospital,Patient 1491,71,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1491.nii
+641,1116,HUST-Union Hospital,Patient 1492,83,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1492.nii
+642,1117,HUST-Union Hospital,Patient 1493,25,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1493.nii
+643,1118,HUST-Union Hospital,Patient 1494,45,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1494.nii
+644,1119,HUST-Union Hospital,Patient 1495,57,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1495.nii
+645,1120,HUST-Union Hospital,Patient 1496,74,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1496.nii
+646,1121,HUST-Union Hospital,Patient 1497,91,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1497.nii
+647,1122,HUST-Union Hospital,Patient 1498,55,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1498.nii
+648,1123,HUST-Union Hospital,Patient 1499,65,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1499.nii
+649,1124,HUST-Union Hospital,Patient 1500,67,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1500.nii
+650,1125,HUST-Union Hospital,Patient 1501,58,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1501.nii
+651,1126,HUST-Union Hospital,Patient 1502,55,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1502.nii
+652,1127,HUST-Union Hospital,Patient 1503,60,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1503.nii
+653,1128,HUST-Union Hospital,Patient 1504,65,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1504.nii
+654,1129,HUST-Union Hospital,Patient 1505,70,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1505.nii
+655,1130,HUST-Union Hospital,Patient 1506,54,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1506.nii
+656,1131,HUST-Union Hospital,Patient 1507,62,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1507.nii
+657,1132,HUST-Union Hospital,Patient 1508,65,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1508.nii
+658,1133,HUST-Union Hospital,Patient 1509,56,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1509.nii
+659,1134,HUST-Union Hospital,Patient 1510,67,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1510.nii
+660,1135,HUST-Union Hospital,Patient 1511,20,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1511.nii
+661,1136,HUST-Union Hospital,Patient 1512,47,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1512.nii
+662,1137,HUST-Union Hospital,Patient 1513,60,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1513.nii
+663,1138,HUST-Union Hospital,Patient 1514,60,Male,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1514.nii
+664,1139,HUST-Union Hospital,Patient 1515,53,Female,Negative,Negative,Control,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1515.nii
+665,1140,HUST-Union Hospital,Patient 1516,52,Male,Positive,Positive,Severe/Critically ill,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1516.nii
+666,1141,HUST-Union Hospital,Patient 1517,45,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1517.nii
+667,1142,HUST-Union Hospital,Patient 1518,66,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1518.nii
+668,1143,HUST-Union Hospital,Patient 1519,71,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1519.nii
+669,1144,HUST-Union Hospital,Patient 1520,66,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1520.nii
+670,1145,HUST-Union Hospital,Patient 1521,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 1521.nii
+671,1147,HUST-Liyuan Hospital,Patient 777,61,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 777.nii
+672,1148,HUST-Liyuan Hospital,Patient 778,58,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 778.nii
+673,1149,HUST-Liyuan Hospital,Patient 779,72,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 779.nii
+674,1150,HUST-Liyuan Hospital,Patient 780,63,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 780.nii
+675,1151,HUST-Liyuan Hospital,Patient 781,47,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 781.nii
+676,1152,HUST-Liyuan Hospital,Patient 782,46,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 782.nii
+677,1153,HUST-Liyuan Hospital,Patient 783,92,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 783.nii
+678,1154,HUST-Liyuan Hospital,Patient 784,47,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 784.nii
+679,1155,HUST-Liyuan Hospital,Patient 785,57,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 785.nii
+680,1156,HUST-Liyuan Hospital,Patient 786,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 786.nii
+681,1158,HUST-Liyuan Hospital,Patient 788,89,Female,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 788.nii
+682,1159,HUST-Liyuan Hospital,Patient 789,61,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 789.nii
+683,1160,HUST-Liyuan Hospital,Patient 790,60,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 790.nii
+684,1161,HUST-Liyuan Hospital,Patient 791,70,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 791.nii
+685,1162,HUST-Liyuan Hospital,Patient 792,51,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 792.nii
+686,1163,HUST-Liyuan Hospital,Patient 793,63,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 793.nii
+687,1164,HUST-Liyuan Hospital,Patient 794,70,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 794.nii
+688,1165,HUST-Liyuan Hospital,Patient 795,46,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 795.nii
+689,1166,HUST-Liyuan Hospital,Patient 796,54,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 796.nii
+690,1169,HUST-Liyuan Hospital,Patient 799,52,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 799.nii
+691,1170,HUST-Liyuan Hospital,Patient 800,38,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 800.nii
+692,1171,HUST-Liyuan Hospital,Patient 801,56,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 801.nii
+693,1172,HUST-Liyuan Hospital,Patient 802,70,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 802.nii
+694,1173,HUST-Liyuan Hospital,Patient 803,67,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 803.nii
+695,1174,HUST-Liyuan Hospital,Patient 804,58,Female,Positive,Positive,Severe/Critically ill,Deceased,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 804.nii
+696,1175,HUST-Liyuan Hospital,Patient 805,34,Female,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 805.nii
+697,1176,HUST-Liyuan Hospital,Patient 806,62,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 806.nii
+698,1179,HUST-Liyuan Hospital,Patient 809,92,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 809.nii
+699,1180,HUST-Liyuan Hospital,Patient 810,51,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 810.nii
+700,1181,HUST-Liyuan Hospital,Patient 811,39,Male,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 811.nii
+701,1182,HUST-Liyuan Hospital,Patient 812,30,Male,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 812.nii
+702,1183,HUST-Liyuan Hospital,Patient 813,57,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 813.nii
+703,1184,HUST-Liyuan Hospital,Patient 814,74,Female,Positive,Positive,Severe/Critically ill,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 814.nii
+704,1185,HUST-Liyuan Hospital,Patient 815,63,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 815.nii
+705,1186,HUST-Liyuan Hospital,Patient 816,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 816.nii
+706,1187,HUST-Liyuan Hospital,Patient 817,59,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 817.nii
+707,1188,HUST-Liyuan Hospital,Patient 818,51,Male,Positive,Positive,Regula/Mild,Unknown,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 818.nii
+708,1190,HUST-Liyuan Hospital,Patient 820,64,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 820.nii
+709,1193,HUST-Liyuan Hospital,Patient 823,31,Female,Positive,Negative,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 823.nii
+710,1194,HUST-Liyuan Hospital,Patient 824,52,Female,Positive,Positive,Regula/Mild,Cured,/home/icaro/Faculdade/Avaliacao_de_gravidade_COVID/Dataset/Patient 824.nii
